@@ -50,4 +50,23 @@ body {
   li a:hover {
     background: blue;
   }
+  #haha {
+    width: auto;
+  }
   
+  .caixahaha {
+    position: absolute;
+    top: 30px;
+    left: 0;
+    width: 90%;
+    height: 200px;
+    background: rgb(255, 18, 1);
+    margin: 45px;
+    border-color: black;
+    border-width: 20px;
+    border-style: solid;
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+  
+  }
